@@ -6003,24 +6003,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\wissfv\\pagewis\\pagewis\\pagewis.csproj",
+      "projectUniqueName": "D:\\github\\page-wissfv\\pagewis\\pagewis.csproj",
       "projectName": "pagewis",
-      "projectPath": "D:\\wissfv\\pagewis\\pagewis\\pagewis.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\wissfv\\pagewis\\pagewis\\obj\\",
+      "projectPath": "D:\\github\\page-wissfv\\pagewis\\pagewis.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\page-wissfv\\pagewis\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6034,11 +6029,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\wissfv\\pagewis\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "D:\\wissfv\\pagewis\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\github\\page-wissfv\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\github\\page-wissfv\\RepositoryLayer\\RepositoryLayer.csproj"
             },
-            "D:\\wissfv\\pagewis\\ServicesLayer\\ServicesLayer.csproj": {
-              "projectPath": "D:\\wissfv\\pagewis\\ServicesLayer\\ServicesLayer.csproj"
+            "D:\\github\\page-wissfv\\ServicesLayer\\ServicesLayer.csproj": {
+              "projectPath": "D:\\github\\page-wissfv\\ServicesLayer\\ServicesLayer.csproj"
             }
           }
         }
@@ -6098,7 +6093,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
