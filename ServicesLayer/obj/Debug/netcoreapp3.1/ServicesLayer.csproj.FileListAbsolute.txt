@@ -1,0 +1,15 @@
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.deps.json
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.dll
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.pdb
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.AssemblyReference.cache
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfoInputs.cache
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfo.cs
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CoreCompileInputs.cache
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.dll
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.pdb
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\wissfv\pagewis\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\wissfv\pagewis\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CopyComplete

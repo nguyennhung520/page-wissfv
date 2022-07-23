@@ -1,0 +1,10 @@
+D:\wissfv\pagewis\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+D:\wissfv\pagewis\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+D:\wissfv\pagewis\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
