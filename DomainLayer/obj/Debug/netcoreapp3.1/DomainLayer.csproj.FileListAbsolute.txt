@@ -8,3 +8,13 @@ D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.c
 D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
 D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
 D:\wissfv\pagewis\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\github\page-wissfv\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+D:\github\page-wissfv\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+D:\github\page-wissfv\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+D:\github\page-wissfv\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb

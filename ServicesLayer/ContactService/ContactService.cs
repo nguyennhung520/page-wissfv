@@ -39,5 +39,6 @@ namespace ServicesLayer.ContactService
         {
             repository.Update(contact);
         }
+
     }
 }

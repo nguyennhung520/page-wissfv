@@ -1,0 +1,21 @@
+﻿using DomainLayer.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DomainLayer.EntityMapper
+{
+    public class SmartCiTyEmpowerMap : IEntityTypeConfiguration<SmartCiTyEmpower>
+    {
+        public void Configure(EntityTypeBuilder<SmartCiTyEmpower> builder)
+        {
+            builder.HasKey(x => x.Id).HasName("pk_SmartCiTyEmpowerid");
+            builder.Property(x => x.Id)
+                .ValueGeneratedOnAdd()
+                .HasColumnName("Id")
+                .HasColumnType("INT");
+        }
+    }
+}
