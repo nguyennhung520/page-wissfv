@@ -1471,7 +1471,8 @@
         "dependencies": {
           "DomainLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.17",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "Microsoft.OpenApi": "1.3.2"
         },
         "runtime": {
           "RepositoryLayer.dll": {}
